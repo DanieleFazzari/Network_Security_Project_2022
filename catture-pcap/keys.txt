@@ -1,0 +1,17 @@
+Auth - PUK, Remote shell:
+Enckey server to client: 798387a74388906222574ba53ef68970
+Enckey client to server: 953a8b05dee430bbc1810e5896576285
+IV server to client: 0c117c227451e7940153f84ac244f6dc5473691c3e4a4034613747c8bedea0ca
+IV client to server: 066a07fa9f40d9d0843df7da75bd60edc9126f8f9785b12a7c5273fec230c003
+
+Auth - PSW:
+Enckey server to client: 3c70783f8d8e44df0bc8096dc3c5e490
+Enckey client to server: cb64c6f829cc236571cee545d75e0988
+IV server to client: 3d0d09e00e5ede08ace15c71029bbbacc3f967f29fe614b030227a055eefdb5c
+IV client to server: afb6155deabdbe9004391324044aa1e1c205f6864e041d891651a46cb32cf832
+
+Direct port forwarding:
+Enckey server to client: 78ef6b0f625da209e0f9daae9ca6c058
+Enckey client to server: d48ef98b90ee587fa8e36052eda7e295
+IV server to client: 4daf6ac243bf504438b1f2b51d4f015f6d116f30d512ac3b14cf5f19b89d241e
+IV client to server: d0db339c66a62b94bef1aea13cf6e2bb4c68af7e68bf9e10dbffc82bb8b2374c
